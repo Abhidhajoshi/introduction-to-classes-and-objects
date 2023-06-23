@@ -1,5 +1,5 @@
 **Objects:**
-The real world is characterised by objects and their interactions.A software application which is developed in the present context should be using Object-Oriented Programming(OOP) for producing a closer reepresentayion of the real world. Java is a language that enforces OOP technique to solve such real world issues.
+The real world is characterised by objects and their interactions.A software application which is developed in the present context should be using Object-Oriented Programming(OOP) for producing a closer reepresentation of the real world. Java is a language that enforces OOP technique to solve such real world issues.
 
 
 ***Introduction to objects:**
