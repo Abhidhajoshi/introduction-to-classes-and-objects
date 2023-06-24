@@ -1,6 +1,6 @@
 /* **FUNCTION OVERLOADING**
 Function overloading is a feature that allows a class to have more than one method having the same name, if their argument lists are different.
-funtion overloading is one of the way thar java implements polymorphism.
+funtion overloading is one of the way that java implements polymorphism.
 When an overloaded function is invoked, Java uses the type and/or number of arguments as its guide to determine which version of the overloaded 
 method to actually called.When Java encounters a call to an overloaded method, it simply executes the version of the method whose parameters match 
 the arguments used in the call.*/
